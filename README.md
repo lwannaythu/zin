@@ -1,2 +1,0 @@
-# zin
-zin.json
